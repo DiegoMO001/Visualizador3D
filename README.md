@@ -1,3 +1,6 @@
+# Disciplina: Computação Gráfica
+# Ano: 2024
+
 # Visualizador de Objetos 3D e Pipeline Gráfico com Qt
 
 Este projeto consiste em uma aplicação interativa desenvolvida em C++ com o framework Qt, projetada para simular um pipeline gráfico simplificado em Computação Gráfica. A aplicação permite carregar arquivos de modelos 3D no formato padrão `.obj`, visualizá-los em uma projeção perspectiva e realizar transformações geométricas em tempo real.
